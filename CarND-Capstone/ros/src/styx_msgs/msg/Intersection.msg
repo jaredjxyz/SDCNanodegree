@@ -1,0 +1,4 @@
+TrafficLight next_light
+uint32 stop_line_waypoint
+uint32 next_light_waypoint
+uint8 next_light_detection
