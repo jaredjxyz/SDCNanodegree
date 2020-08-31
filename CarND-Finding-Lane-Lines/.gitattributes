@@ -1,0 +1,8 @@
+extra.mp4 filter=lfs diff=lfs merge=lfs -text
+raw-lines-example.mp4 filter=lfs diff=lfs merge=lfs -text
+solidWhiteRight.mp4 filter=lfs diff=lfs merge=lfs -text
+solidYellowLeft.mp4 filter=lfs diff=lfs merge=lfs -text
+white.mp4 filter=lfs diff=lfs merge=lfs -text
+yellow.mp4 filter=lfs diff=lfs merge=lfs -text
+P1_example.mp4 filter=lfs diff=lfs merge=lfs -text
+challenge.mp4 filter=lfs diff=lfs merge=lfs -text
